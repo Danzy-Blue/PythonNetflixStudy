@@ -1,6 +1,8 @@
 #######################################################################################
 
 # Prediction: Are Movies geting of shorter ??
+################# Git: https://github.com/Danzy-Blue/PythonNetflixStudy################
+##############################https://twitter.com/imDanzy##############################
 #######################################################################################
 
 
@@ -137,7 +139,7 @@ print(colors[0:10])
 
 
 #9. Plotting with color!
-#######################################################################################
+################# Git: https://github.com/Danzy-Blue/PythonNetflixStudy################
 # Set the figure style and initalize a new figure
 plt.style.use('fivethirtyeight')
 fig = plt.figure(figsize=(12,8))
@@ -157,7 +159,8 @@ plt.show()
 
 
 #10. Coclusion
-#######################################################################################
+################# Git: https://github.com/Danzy-Blue/PythonNetflixStudy################
+##############################https://twitter.com/imDanzy##############################
 # Probably YES
 
 
